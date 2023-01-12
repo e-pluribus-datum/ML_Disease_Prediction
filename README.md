@@ -11,7 +11,7 @@ Run the following in the root folder to create the necessary virtual environment
 conda create -n disease-prediction --file spec-file.txt
 ```
 <!--
-This doesn't seem to work. It should be done in a new virtual environment.
+This doesn't seem to work. It should be done in a new virtual environment. 
 ```
 pip install -r requirements.txt
 ```
